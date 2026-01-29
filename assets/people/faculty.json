@@ -1,0 +1,403 @@
+{
+  "department": "Civil Engineering",
+  "institution": "Indian Institute of Technology Jammu",
+  "faculty": [
+    {
+      "id": "surendra-beniwal",
+      "name": "Surendra Beniwal",
+      "designation": "Assistant Professor",
+      "profileImage": "https://iitjammu.ac.in/faculty/regular/thumbnail_IMG_3611_A.jpg",
+      "sortBio": "Expert in ultrasonics, structural health monitoring, and computational mechanics.",
+      "contactEmail": "surendra.beniwal@iitjammu.ac.in",
+      "contactOffice": "N-558",
+      "contactAddress": "Indian Institute of Technology Jammu, Jagti Campus, Nagrota Bypass Road, Jammu & Kashmir, 181221, India",
+      "education": [
+        "2006 - B.E. in Civil Engineering, M.B.M. Engg. College, Jodhpur",
+        "2008 - M.Tech. in Civil Engineering, Indian Institute of Technology Roorkee",
+        "2016 - Ph.D. in Structural Engineering, Indian Institute of Technology Delhi"
+      ],
+      "researchInterests": [
+        "Ultrasonics",
+        "Structural health monitoring",
+        "Computational Mechanics",
+        "Micromechanics",
+        "Ultrasonic Nondestructive evaluation",
+        "Subsurface imaging and characterization",
+        "Numerical modeling of elastic wave propagation and scattering",
+        "Homogenization of composite materials",
+        "Multiscale modeling"
+      ],
+      "teachingInterests": [
+        "Solid Mechanics",
+        "Steel Structures",
+        "Structural Analysis"
+      ],
+      "postdoctoralExperience": [
+        "2016-2017 - Postdoctoral Fellow, Indian Institute of Technology Delhi",
+        "2018-2019 - Postdoctoral Fellow, Aeronautics and Astronautics, Stanford University"
+      ],
+      "teachingExperience": [
+        "August 2019 - Present - Assistant Professor, IIT Jammu",
+        "August 2017 - May 2018 - Assistant Professor, Thapar Institute of Engineering & Technology, Patiala",
+        "July 2008 - December 2012 - Assistant Professor, Govt. College of Engineering & Technology, Bikaner",
+        "January 2012 - October 2016 - Teaching Assistant, Indian Institute of Technology Delhi"
+      ],
+      "publicationProfiles": [
+        "https://www.researchgate.net/profile/Surendra_Beniwal",
+        "https://scholar.google.co.in/citations?user=1CgBkZIAAAAJ&hl=en"
+      ],
+      "researchPositionsAvailable": [
+        "Ph.D. and Postdoctoral positions available for nondestructive evaluation and structural health monitoring"
+      ],
+      "workshopsAttended": [
+        "July 06-17, 2009 - NPCBEERM Workshop on Earthquake Risk Management at Jai Narain Vyas University, Jodhpur"
+      ],
+      "internationalVisits": [
+        "October 21-24, 2015 - IEEE International Ultrasonic Symposium 2015, Taipei"
+      ],
+      "awardsScholarships": [
+        "Prof. Amiya Basu Research Award, 2015-16",
+        "IEEE student travel award, 2015",
+        "DST international travel grant, 2015",
+        "CICS offered travel grant, 2015 (not availed)",
+        "Institute Scholarship during Ph.D. degree, 2012-2016",
+        "GATE Scholarship (MHRD) during M.Tech. degree, 2006-08"
+      ],
+      "professionalMemberships": [
+        "2015-2018: Member, IEEE UFFC Society"
+      ]
+    },
+    {
+      "id": "deepak-yadav",
+      "name": "Deepak Yadav",
+      "designation": "Assistant Professor",
+      "administrativeRole": "Associate Dean (Infrastructure Projects)",
+      "profileImage": "https://iitjammu.ac.in/faculty/documents/images/1686030852064.jpeg",
+      "sortBio": "Structural and earthquake engineering expert specializing in metallic yielding dampers and seismic response control.",
+      "description": [
+        "Dr. Deepak Yadav is presently working as an Assistant Professor in the Department of Civil Engineering at IIT Jammu. He did PhD in Structural Engineering from IIT Delhi and BTech in Civil Engineering from IIT Roorkee. His doctoral research was focused on metallic-yielding dampers and he filed a patent on the developed damper as co-inventor. His research interests are seismic response control, retrofitting of structures, steel and aluminum structures, and earthquake-resistant design. Dr. Yadav also has industrial experience in the structural design of buildings in Africa, Middle East, and India regions. He has been a part of more than twenty projects as a structural engineer and peer reviewer."
+      ],
+      "contactEmail": "deepak.yadav@iitjammu.ac.in",
+      "contactAddress": "Indian Institute of Technology Jammu, Jagti Campus, Nagrota Bypass Road, Jammu & Kashmir, 181221, India",
+      "education": [
+        "2022 - Ph.D. in Civil Engineering, Indian Institute of Technology Delhi (Structural and Earthquake Engineering)",
+        "2009 - B.Tech. in Civil Engineering, Indian Institute of Technology Roorkee"
+      ],
+      "researchInterests": [
+        "Seismic Response Control",
+        "Supplemental Energy Dissipation Devices",
+        "Metallic Yielding Dampers",
+        "Retrofitting of Structures",
+        "Earthquake Resistant Design",
+        "Tall Buildings",
+        "Aluminum, Steel and RCC Structures",
+        "Concrete-Filled Tubes (CFTs)",
+        "Precast Connections",
+        "Performance-based Seismic Design"
+      ],
+      "teachingInterests": [
+        "Structural Dynamics",
+        "Behavior of Structures",
+        "Steel and RCC Design",
+        "Structural Analysis",
+        "Earthquake Resistant Design of Structures"
+      ],
+      "professionalBackground": [
+        "Visiting faculty for Structural Dynamics (M.Tech.) at NCU Gurgaon",
+        "Structural design of around 20 large-scale building projects in Middle East, Africa, and India",
+        "Proof checking of building infrastructure projects"
+      ],
+      "postdoctoralExperience": [
+        "2022-2023 - Post Doctoral Fellow, Indian Institute of Technology Delhi"
+      ],
+      "phdStudents": [
+        "Raina Venposh - Comprehensive Exam",
+        "Supriya Bansal - Comprehensive Exam"
+      ],
+      "mtechStudents": [
+        "Nalini Thakur (2026) - DAAD KOSPIE awardee, Ongoing",
+        "Neeyati Gupta (2026) - Co-supervised, Ongoing",
+        "Tanzeel Firdous Ganai (2026) - Ongoing",
+        "Jaiveer Singh Manhas (2025) - Submitted",
+        "Avinash Sahani (2025) - Submitted"
+      ],
+      "btechStudents": [
+        "2025: Aditya, Ayushi Meena, Debangan Goswami",
+        "2024: Ayush Sonkar, Chandrabit Pal"
+      ],
+      "selectedPublications": [
+        "Abhilash Mallikarjuna, Deepak Yadav, et al. 'Seismic retrofitting of an existing non-ductile open-ground story RC frame...', Engineering Structures, 2025 (IF: 5.6)",
+        "M. Adil Dar, Deepak Yadav, et al. 'Tests on Cold-Formed Steel Laced Stub Columns...', Journal of Structural Engineering ASCE, 2024 (IF: 3.9)",
+        "Deepak Yadav and Dipti Ranjan Sahoo, 'Experimental and analytical investigations of buckling-inhibited aluminum shear yielding devices...', Soil Dynamics and Earthquake Engineering, 2023 (IF: 4.25)",
+        "Deepak Yadav and Dipti Ranjan Sahoo, 'Experimental and analytical investigations of steel shear buckling-inhibited energy dissipation devices', Journal of Constructional Steel Research, 2022 (IF: 4.349)",
+        "Deepak Yadav and Dipti Ranjan Sahoo, 'Validation of hysteretic behavior...', International Journal of Mechanical Sciences, 2021 (IF: 6.772)"
+      ],
+      "patents": [
+        "Buckling inhibited aluminium shear yielding damper (Filed)"
+      ],
+      "awards": [
+        "DAAD Scholarship (2008)",
+        "Jai Prakash Sewa Sansthan Scholarship, IIT Roorkee (2005-2009)",
+        "All India Rank 2362 in IIT-JEE 2005",
+        "Silver medal in Inter IIT Hockey (2007)"
+      ]
+    },
+    {
+      "id": "rimen-jamatia",
+      "name": "Rimen Jamatia",
+      "designation": "Assistant Professor",
+      "profileImage": "https://iitjammu.ac.in/faculty/regular/Rimen%20Jamatia.jpg",
+      "sortBio": "Researcher in concrete behavior, size effects, and multi-scale modeling of geomaterials.",
+      "contactEmail": "rimen.jamatia@iitjammu.ac.in",
+      "contactOffice": "Room No. 11AC-3038, Pushkar Building",
+      "contactAddress": "Indian Institute of Technology Jammu, Jagti Campus, Nagrota Bypass Road, Jammu & Kashmir, 181221, India",
+      "education": [
+        "B.E. in Civil Engineering, NIT Agartala",
+        "M.Tech. in Structural Engineering, NIT Agartala",
+        "Ph.D. in Structural Engineering, IIT Kharagpur"
+      ],
+      "researchInterests": [
+        "Behavior of concrete under non-uniform passive and active confinement",
+        "Size effect in concrete (Deterministic and Statistical)",
+        "Multi-scale multi-phase modeling of geomaterials",
+        "Non-local model for quasi-brittle fracture",
+        "Offshore wind turbine"
+      ],
+      "coursesTaught": [
+        "Finite Element Method (PG)",
+        "Engineering Mechanics (UG)",
+        "Analytical Geomechanics (PG)",
+        "Nonlinear Finite Element Method (PG)",
+        "Structural Analysis (UG)",
+        "Continuum Mechanics (PG)",
+        "Design of RC Structures (UG)"
+      ],
+      "labsTaught": [
+        "Solid Mechanics Lab",
+        "Structural Analysis Lab"
+      ],
+      "researchExperience": [
+        "Faculty, NIT Silchar (2017-2018)",
+        "Faculty, NIT Puducherry (2018-2019)",
+        "Faculty, IIT Jammu (2019 - present)",
+        "Academic Visitor, National University of Singapore (June-July 2023)",
+        "Visiting Scholar, Northwestern University, USA (Oct 2023 - April 2024)"
+      ],
+      "phdStudents": [
+        "Pronnoy Bhat (PMRF) - Constitutive model of concrete under uniform and non-uniform passive confinement",
+        "Hemam Amarjit Singh - Multi-scale modeling of Granular media",
+        "Hasina Bano - Rammed Earth Structures in Himalayan region",
+        "Naqibullah Mehri - Phase field model for quasi-brittle fracture",
+        "Tawfeeq Ahmad Wani - Fracture properties of Quasi-brittle materials"
+      ],
+      "selectedPublications": [
+        "[J10] P. Bhat and R. Jamatia (2025) Analytical Load-Strain Model for FRP-Reinforced Concrete Hollow Columns..., Journal of Composites for Construction, ASCE",
+        "[J9] P. Bhat and R. Jamatia (2024) Analysis Oriented Model for Hybrid Filament Wound FRP-Concrete-Steel DSTC..., Journal of Constructional Steel Research, Elsevier",
+        "[J8] P. Bhat and R. Jamatia (2024) Compressive Stress-strain Model for Concrete-filled Filament-wound FRP Tubes..., Construction and Building Materials, Elsevier",
+        "[J7] P. Bhat and R. Jamatia (2024) Compressive Behavior of Concrete-filled Double Skin Steel Tubular Columns..., Journal of Constructional Steel Research, Elsevier",
+        "[J6] P. Bhat and R. Jamatia (2023) Analytical Stress-Strain Model of Hybrid FRP-Concrete-Steel Double Skin Tubular Columns..., Engineering Structures, Elsevier"
+      ]
+    },
+    {
+      "id": "anurag-misra",
+      "name": "Anurag Misra",
+      "designation": "Professor",
+      "administrativeRole": "Dean (Infrastructure Planning and Management)",
+      "profileImage": "https://iitjammu.ac.in/faculty/Anurag%20Misra.jpg",
+      "sortBio": "Professor and Dean (IPM) with expertise in concrete durability, non-destructive testing, and polymer composites.",
+      "contactEmail": "anurag.misra@iitjammu.ac.in",
+      "contactAddress": "Indian Institute of Technology Jammu, NH-44, Jagti, PO Nagrota, Jammu Jammu & Kashmir, 181221, India",
+      "description": [
+        "I am working as Professor in Civil Engineering Department and Dean (Infrastructure Planning and Management). Before joining IIT Jammu, I worked as Chief Executive Officer of an infrastructure company..."
+      ],
+      "education": [
+        "1987 - B.E. (Civil), University of Rajasthan (MNIT Jaipur)",
+        "1993 - M.Tech (Structures), Kurukshetra University (NIT Kurukshetra)",
+        "2004 - Ph.D., The Queen's University of Belfast (U.K.)"
+      ],
+      "researchInterests": [
+        "Utilization of wastes in concrete",
+        "Durability of concrete",
+        "Concrete repairs",
+        "Non-destructive testing",
+        "High strength steel–concrete composite sections",
+        "Polymer composites",
+        "High strength steel welding"
+      ],
+      "teachingInterests": [
+        "Strength of Materials and Theory of Structures",
+        "Design of Concrete Structures",
+        "Design of Steel structures",
+        "Pre-stressed Structures",
+        "Bridge Engineering"
+      ],
+      "selectedPublications": [
+        "Lalit Singh, Anurag Misra and Rimen Jamatia, 'Study of Heat Resistance of Concrete...', ASCE Journal of Materials in Civil Engineering, 2025",
+        "H Kumar, A Misra, et al. 'Microstructure and mechanical properties of micro alloyed high strength low carbon structural steels', Vacuum, 2025",
+        "Manali Rathee and Anurag Misra, 'Copper Slag as a Sustainable Resource...', ASCE Journal of Materials in Civil Engineering, 2025"
+      ],
+      "researchOpportunities": [
+        "Ph.D. positions available",
+        "Postdoctoral positions available",
+        "Internship positions available",
+        "Research areas: Low carbon cement, NDT with IoT, Prestressed composite bridges, High strength steel welding"
+      ]
+    },
+    {
+      "id": "rajendra-kumar-varma",
+      "name": "Rajendra Kumar Varma",
+      "designation": "Associate Professor",
+      "profileImage": "https://iitjammu.ac.in/faculty/regular/rajendra.jpg",
+      "sortBio": "Specialist in CFRP confined concrete, seismic analysis, and numerical modeling of structures.",
+      "contactEmail": "rajendra.varma@iitjammu.ac.in",
+      "contactOffice": "Room no 107, IIT Jammu",
+      "education": [
+        "2005 - B.Tech., Civil Engineering, IIT Guwahati",
+        "2013 - Ph.D., University of Minho, Portugal"
+      ],
+      "researchInterests": [
+        "CFRP confined concrete",
+        "Cyclic Constitutive modeling",
+        "Seismic analysis",
+        "Computer aided analysis",
+        "Finite element analysis",
+        "Design of RCC and PSC",
+        "Railway Bridges",
+        "Numerical modeling",
+        "Use of advanced materials in construction"
+      ],
+      "researchExperience": [
+        "Young Research Engineer, University of Minho (Sep 2005 - Sep 2007)",
+        "Visiting Faculty, GBU, Greater Noida (Aug 2012 - Dec 2012)",
+        "Assistant Professor, IIT Jammu (Dec 2017 - Present)"
+      ],
+      "industrialExperience": [
+        "Cowi India Limited (Nov 2012 - Dec 2014)",
+        "Bechtel India Limited (Dec 2014 - Aug 2016)",
+        "Aarvee Associates (Jan 2017 - Dec 2017)"
+      ]
+    },
+    {
+      "id": "pervaiz-fathima-khatoon-m",
+      "name": "Pervaiz Fathima Khatoon M",
+      "designation": "Assistant Professor",
+      "contactEmail": "pervaiz.khatoon@iitjammu.ac.in",
+      "contactAddress": "Indian Institute of Technology Jammu Jagti, Nagrota Bypass Road, Jammu & Kashmir, 181221, India",
+      "profileImage": "https://iitjammu.ac.in/faculty/documents/images/1641889096669.jpeg",
+      "sortBio": "Expert in fracture mechanics, fatigue modeling, and damage assessment of structures.",
+      "education": [
+        "2005 - B.Tech., Civil Engineering, Sri Krishnadevaraya University",
+        "2008 - M.E., Civil (Structural) Engineering, Indian Institute of Science, Bengaluru",
+        "2015 - Ph.D., Civil (Structural) Engineering, Indian Institute of Science, Bengaluru"
+      ],
+      "researchInterests": [
+        "Fluid flow modelling in fracturing porous materials",
+        "Fatigue modelling",
+        "Life prediction",
+        "Damage assessment in existing structures",
+        "Constitutive modelling of material behaviour of heterogeneous composite materials"
+      ],
+      "teachingInterests": [
+        "Engineering Mechanics",
+        "Structural Analysis",
+        "Solid mechanics",
+        "Finite Element Method",
+        "Fracture Mechanics"
+      ],
+      "postdoctoralExperience": [
+        "Research Associate – Computational Mechanics, University of Sheffield, UK (Feb 2016 - Feb 2019)",
+        "Research Associate – Aerospace Engineering, Indian Institute of Science, Bangalore (Jan 2015 - Jan 2016)"
+      ],
+      "selectedPublications": [
+        "Tim Hageman, K. M. Pervaiz Fathima and René de Borst, 'Isogeometric analysis of fracture propagation...', Computers and Geotechnics, 2019",
+        "K. M. Pervaiz Fathima and René de Borst, 'Implications of single or multiple pressure degrees...', Engineering Fracture Mechanics, 2019",
+        "K. M. Pervaiz Fathima and J. M. Chandra Kishen, 'A thermodynamic correlation between damage...', Engineering Fracture Mechanics, 2015"
+      ]
+    },
+    {
+      "id": "sameer-kumar-sarma-pachalla",
+      "name": "Sameer Kumar Sarma Pachalla",
+      "designation": "Assistant Professor",
+      "profileImage": "https://iitjammu.ac.in/faculty/regular/Sameer%20Kumar%20Sarma%20Pachalla_0.jpg",
+      "sortBio": "Researcher in concrete wind turbine towers, UHPC, and precast structures.",
+      "contactEmail": "sameer.pachalla@iitjammu.ac.in",
+      "contactOffice": "Room No. 5026, Pushkar Building",
+      "contactPhone": "0191 2570737",
+      "contactAddress": "Indian Institute of Technology Jammu, Jagti Campus, Nagrota Bypass Road, Jammu, J&K, 181221, India",
+      "education": [
+        "Ph.D. in Civil Engineering, IIT Hyderabad",
+        "M.Tech in Structural Engineering, IIT (BHU) Varanasi",
+        "B.E in Civil Engineering, Osmania University"
+      ],
+      "coursesTaught": [
+        "Structural Analysis",
+        "Prestressed concrete design",
+        "RCC design",
+        "Computer Aided Design and Detailing",
+        "Engineering Surveying",
+        "Structural Design and Detailing",
+        "Design of Tunnels and Support Systems",
+        "Maintenance and Monitoring of Tunnels",
+        "Product Visualization (Engineering Drawing)"
+      ],
+      "researchInterests": [
+        "Concrete Wind turbine towers",
+        "Prestressed concrete",
+        "Ultra High Performance Concrete (UHPC)",
+        "FRP strengthening",
+        "Precast structures",
+        "Tunnel Behavior"
+      ],
+      "postdoctoralExperience": [
+        "Post-Doctoral Research Associate, Iowa State University (Design of precast concrete wind towers for 160 m hub height)"
+      ],
+      "researchProjects": [
+        "Behavior and Strengthening of UHPC Beams with web opening (Rs 25 lakhs, DST-SERB SRG)"
+      ],
+      "selectedPublications": [
+        "Pachalla, S. K. S., and Prakash, S. S., 'Experimental Evaluation on Effect of Openings on Behavior of Prestressed Precast Hollow-Core Slabs', ACI Structural Journal, 2017",
+        "Pachalla, S. K. S., and Prakash, S. S., 'Load resistance and failure modes of hollowcore slabs with openings...', PCI Journal, 2018",
+        "Pachalla, S. K. S., and Prakash, S. S., 'Load Resistance and Failure Modes of GFRP Composite Strengthened Hollow Core Slabs...', Materials and Structures, RILEM, 2017"
+      ],
+      "awards": [
+        "Prime Minister Fellowship (PMRF) for Ph.D.",
+        "Gold Medal during B.E for best academic performance"
+      ],
+      "industryExperience": [
+        "Design Engineer, L&T Limited (Mumbai Monorail, Hyderabad Metro rail)",
+        "Designed significant part of superstructure for Mumbai Monorail",
+        "Designed RCC and Steel link-way structures",
+        "Worked on track design for Hyderabad Metro Rail Project"
+      ]
+    },
+    {
+      "id": "mir-faizan-ul-haq",
+      "name": "Mir Faizan Ul Haq",
+      "designation": "Assistant Professor",
+      "profileImage": "https://iitjammu.ac.in/faculty/documents/images/1703771791770.jpeg",
+      "sortBio": "Expert in structural dynamics, seismic base isolation, and advanced reactor safety.",
+      "contactEmail": "mir.faizan@iitjammu.ac.in",
+      "contactAddress": "Indian Institute of Technology Jammu, Jagti Campus, Nagrota Bypass Road, Jammu & Kashmir, 181221, India",
+      "website": "https://scholar.google.com/citations?user=d0YsoqcAAAAJ&hl=en",
+      "education": [
+        "2017-2023 - Ph.D., Structural Engineering, State University of New York at Buffalo, USA",
+        "2015-2017 - M.Tech., Structural Engineering, Indian Institute of Technology Kanpur",
+        "2011-2015 - B.Tech., Civil Engineering, National Institute of Technology Srinagar"
+      ],
+      "researchInterests": [
+        "Structural dynamics",
+        "Seismic base isolation",
+        "Small modular reactors",
+        "Large scale testing"
+      ],
+      "postdoctoralExperience": [
+        "Postdoctoral Associate, State University of New York at Buffalo (June 2023 - December 2023)"
+      ],
+      "selectedPublications": [
+        "Mir, F. U. H., Whittaker, A. S., et al. 'Recommendations for seismic analysis of a molten salt reactor.', Nuclear Engineering and Design, 2023",
+        "Mir, F. U. H., Tilow, K., et al. 'Earthquake response of head-mounted equipment in advanced reactors.', Earthquake Spectra, 2023",
+        "Mir, F. U. H., Whittaker, A. S., et al. 'Characterizing the seismic response of a molten salt nuclear reactor.', Earthquake Engineering & Structural Dynamics, 2023"
+      ]
+    }
+  ]
+}

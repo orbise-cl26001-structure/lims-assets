@@ -1,0 +1,226 @@
+[
+    {
+        "id": "abdul-haseeb-wani",
+        "name": "Abdul Haseeb Wani",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/ABDUL%20HASEEB%20WANI.jpg",
+        "contactEmail": "2018rce0001@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Rajendra K. Varma",
+            "Prof. Ashok K. Ahuja"
+        ],
+        "researchInterests": [
+            "Structural Wind Engineering"
+        ],
+        "sortBio": "PhD student working in the area of Structural Wind Engineering.",
+        "description": [
+            "PhD student working in the area of Structural Wind Engineering."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "satyendra-k-singh",
+        "name": "Satyendra K. Singh",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/SATYENDRA%20KUMAR%20SINGH.jpg",
+        "contactEmail": "2018rce0002@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Rajendra K. Varma",
+            "Dr. Arnab Banerjee"
+        ],
+        "researchInterests": [
+            "Seismic Performance Assessment of Infilled Sandwich Panel"
+        ],
+        "sortBio": "PhD student focusing on seismic performance of infilled sandwich panel systems.",
+        "description": [
+            "PhD student focusing on seismic performance of infilled sandwich panel systems."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "suhaib-ul-reyaz",
+        "name": "Suhaib Ul Reyaz",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/SUHAIB%20UL%20REYAZ.jpg",
+        "contactEmail": "2018rce0034@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Surendra Beniwal"
+        ],
+        "researchInterests": [
+            "Structural Health Monitoring of Concrete Structures"
+        ],
+        "sortBio": "PhD student working on structural health monitoring of concrete structures.",
+        "description": [
+            "PhD student working on structural health monitoring of concrete structures."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "aanchna-sharma",
+        "name": "Aanchna Sharma",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/AANCHNA%20SHARMA.jpg",
+        "contactEmail": "2018rce0035@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Vinod Kushvaha"
+        ],
+        "researchInterests": [
+            "Fracture and Fatigue Behavior of Particulate Polymer Composites"
+        ],
+        "sortBio": "PhD student researching fracture and fatigue behavior of particulate polymer composites.",
+        "description": [
+            "PhD student researching fracture and fatigue behavior of particulate polymer composites."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "i-bhargav",
+        "name": "I Bhargav",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/Bhargav%20I.png",
+        "contactEmail": "2019rce0017@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Vinod Kushvaha"
+        ],
+        "researchInterests": [
+            "Lightweight Honeycomb Lattices for Enhanced Energy Absorption"
+        ],
+        "sortBio": "PhD student working on lightweight honeycomb lattice structures for energy absorption.",
+        "description": [
+            "PhD student working on lightweight honeycomb lattice structures for energy absorption."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "pronnoy-bhat",
+        "name": "Pronnoy Bhat",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/PRONNOY%20BHAT.jpg",
+        "contactEmail": "2019rce0022@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Rimen Jamatia"
+        ],
+        "researchInterests": [
+            "Constitutive Model of Concrete under Non-uniform Passive Confinement"
+        ],
+        "sortBio": "PMRF PhD student working on constitutive modeling of confined concrete.",
+        "description": [
+            "PMRF PhD student working on constitutive modeling of confined concrete."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "saurabh-agarwal",
+        "name": "Saurabh Agarwal",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/SAURABH%20AGARWAL.jpg",
+        "contactEmail": "2019rce0021@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Surendra Beniwal"
+        ],
+        "researchInterests": [
+            "Structural Health Monitoring"
+        ],
+        "sortBio": "PhD student working in the area of structural health monitoring.",
+        "description": [
+            "PhD student working in the area of structural health monitoring."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "hemam-amarjit-singh",
+        "name": "Hemam Amarjit Singh",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/HEMAM%20AMARJIT%20SINGH.jpg",
+        "contactEmail": "2020rce2044@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Rimen Jamatia"
+        ],
+        "researchInterests": [
+            "Multi-scale Modeling of Granular Media"
+        ],
+        "sortBio": "PhD student focusing on multi-scale modeling of granular materials.",
+        "description": [
+            "PhD student focusing on multi-scale modeling of granular materials."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "sristi-gupta",
+        "name": "Sristi Gupta",
+        "program": "Structural Engineering",
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/Sristi%20Gupta.jpeg",
+        "contactEmail": "2021rce1016@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Vinod Kushvaha"
+        ],
+        "researchInterests": [
+            "Mixed-mode Fracture Behavior of STF-impregnated GFRP Composites"
+        ],
+        "sortBio": "PhD student researching mixed-mode fracture behavior of STF-impregnated GFRP composites.",
+        "description": [
+            "PhD student researching mixed-mode fracture behavior of STF-impregnated GFRP composites."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "manali-rathee",
+        "name": "Manali Rathee",
+        "program": [
+            "Structural Engineering"
+        ],
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/Manali%20Rathee.jpg",
+        "contactEmail": "2021rce1013@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Anurag Misra"
+        ],
+        "researchInterests": [
+            "Geopolymer Concrete"
+        ],
+        "sortBio": "PhD student working on geopolymer concrete and sustainable construction materials.",
+        "description": [
+            "PhD student working on geopolymer concrete and sustainable construction materials."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "sumit-singh-thakur",
+        "name": "Sumit Singh Thakur",
+        "program": [
+            "Structural Engineering"
+        ],
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/Sumit%20Singh%20Thakur.jpg",
+        "contactEmail": "2021rce1017@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Pervaiz Fathima Khatoon M."
+        ],
+        "researchInterests": [
+            "Computational Solid Mechanics"
+        ],
+        "sortBio": "PhD student focusing on computational solid mechanics.",
+        "description": [
+            "PhD student focusing on computational solid mechanics."
+        ],
+        "selectedPublications": []
+    },
+    {
+        "id": "muneem-ahmad-dar",
+        "name": "Muneem Ahmad Dar",
+        "program": [
+            "Structural Engineering"
+        ],
+        "image": "https://iitjammu.ac.in/department/civil/researchimages/Muneem.jpg",
+        "contactEmail": "2021rce1014@iitjammu.ac.in",
+        "supervisors": [
+            "Dr. Pervaiz Fathima Khatoon M."
+        ],
+        "researchInterests": [
+            "Fracture in Heterogeneous Materials"
+        ],
+        "sortBio": "PhD student working on fracture behavior in heterogeneous materials.",
+        "description": [
+            "PhD student working on fracture behavior in heterogeneous materials."
+        ],
+        "selectedPublications": []
+    }
+]

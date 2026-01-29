@@ -1,0 +1,96 @@
+[
+  {
+    "current_projects": [
+      {
+        "id": "1",
+        "title": "Mechanical hardware-in-the-loop",
+        "description": "A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/mhil-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "2",
+        "title": "Wind Flow Simulation",
+        "description": "Developing subgrid models for urban wind flow analysis.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/wind-flow",
+        "file": "https://pdfobject.com/pdf/sample.pdf"
+      },
+      {
+        "id": "3",
+        "title": "Fire Damage Analysis",
+        "description": "Damage classification of reinforced concrete structures for fire resistance.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/fire-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "4",
+        "title": "Seismic Retrofit",
+        "description": "Retrofitting reinforced concrete shear walls for earthquake resilience.A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.A mechanical hardware-in-the-loop (mHiL) testbed for control algorithms.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/seismic-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "5",
+        "title": "test Retrofit",
+        "description": "Retrofitting reinforced concrete shear walls for earthquake resilience.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/seismic-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      }
+    ],
+    "completed_projects": [
+      {
+        "id": "3",
+        "title": "Fire Damage Analysis",
+        "description": "Damage classification of reinforced concrete structures for fire resistance.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/fire-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "4",
+        "title": "Seismic Retrofit",
+        "description": "Retrofitting reinforced concrete shear walls for earthquake resilience.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/seismic-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "5",
+        "title": "test Retrofit",
+        "description": "Retrofitting reinforced concrete shear walls for earthquake resilience.",
+        "image": "src/assets/shared/image.png",
+        "link": "https://example.com/seismic-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "3",
+        "title": "Fire Damage Analysis",
+        "description": "Damage classification of reinforced concrete structures for fire resistance.",
+        "image": "/images/fire.jpg",
+        "link": "https://example.com/fire-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "4",
+        "title": "Seismic Retrofit",
+        "description": "Retrofitting reinforced concrete shear walls for earthquake resilience.",
+        "image": "/images/seismic.jpg",
+        "link": "https://example.com/seismic-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      },
+      {
+        "id": "5",
+        "title": "test Retrofit",
+        "description": "Retrofitting reinforced concrete shear walls for earthquake resilience.",
+        "image": "/images/seismic.jpg",
+        "link": "https://example.com/seismic-project",
+        "file": "src/assets/projects/pdfTest.pdf"
+      }
+    ]
+  }
+]
