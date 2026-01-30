@@ -1,0 +1,55 @@
+{
+    "general": {
+        "email": "hod.ce@iitjammu.ac.in",
+        "websiteUrl": "https://iitjammu.ac.in",
+        "websiteLabel": "IIT JAMMU WEBSITE",
+        "copyright": "© 2026 All Rights Reserved."
+    },
+    "footer": {
+        "about": {
+            "title": "ABOUT",
+            "text": "Welcome to the Structural Engineering Lab at IIT Jammu, where innovation meets research. Our dedicated team explores advanced techniques in structural analysis, sustainable design, and experimental testing to create resilient infrastructure for tomorrow."
+        },
+        "address": {
+            "title": "ADDRESS",
+            "location": "Department of Civil Engineering, IIT Jammu"
+        },
+        "quickLinks": {
+            "title": "QUICK LINKS",
+            "links": [
+                {
+                    "label": "Research Areas",
+                    "url": "/research"
+                },
+                {
+                    "label": "Startups",
+                    "url": "/startups"
+                },
+                {
+                    "label": "Awards and Honors",
+                    "url": "/awards"
+                },
+                {
+                    "label": "Publications",
+                    "url": "/structural"
+                },
+                {
+                    "label": "Research Labs",
+                    "url": "/facilities"
+                },
+                {
+                    "label": "Funding Agencies",
+                    "url": "/funding"
+                }
+            ]
+        }
+    },
+    "aboutPage": {
+        "title": "About Us",
+        "paragraphs": [
+            "Welcome to the Department of Civil Engineering at IIT Jammu. We are dedicated to excellence in education, research, and innovation.",
+            "Our mission is to foster a learning environment that encourages critical thinking and problem-solving, preparing the next generation of civil engineers to tackle the challenges of the future.",
+            "Our research areas span structural engineering, geotechnical engineering, water resources, and transportation, aiming to create sustainable and resilient infrastructure."
+        ]
+    }
+}
